@@ -1,3 +1,5 @@
+![youtube-downloader](img\youtube-downloader.png)
+
 # 🎥 YouTube Downloader
 
 Este projeto foi desenvolvido com o objetivo de aprofundar meus estudos em Python e Streamlit, explorando na prática o consumo de bibliotecas externas, manipulação de mídia e criação de interfaces interativas para aplicações simples. A ideia é consolidar fundamentos de desenvolvimento web com Python, além de entender melhor como fluxos de download, conversão e integração de vídeo funcionam na prática.
