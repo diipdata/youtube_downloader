@@ -1,4 +1,4 @@
-![youtube-downloader](img\youtube-downloader.png)
+![youtube-downloader](img/youtube-downloader.png)
 
 # 🎥 YouTube Downloader
 
